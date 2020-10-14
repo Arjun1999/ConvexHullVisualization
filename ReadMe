@@ -1,3 +1,4 @@
+This project attempts to replicate the implementation of the infamous Graham-Scan and Divide and Conquer alogrithms for the computation of convex hulls as a part of the CS/DS 715-Computational Geometry of IIIT-B.
 
 1. Interfaced folder     -> This folder is the one to be considered for a complete overview of the project. Just go to the folder and execute "python Launch.py" and the launched GUI will guide you as it is pretty self explanatory.
  
