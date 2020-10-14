@@ -2,8 +2,8 @@
 1. Interfaced folder     -> This folder is the one to be considered for a complete overview of the project. Just go to the folder and execute "python Launch.py" and the launched GUI will guide you as it is pretty self explanatory.
  
 2. Non_Interfaced folder -> This contains the two non-interfaced submissioms. Go to this folder and execute:
-			    (i)  'python GrahamScanVisualization.py n', where n is an integer which denotes the number of inputs you want to 					  give. This file will then generate n random points and show the visualization.
-			    (ii) 'python GrahamScanVisualizationGraphInput.py n', where n is an integer which denotes the number of inputs you 					  want to give. This file will then open up a plot and allow you to choose points on the plot and then 					  generate the visualization.
+(i)  'python GrahamScanVisualization.py n', where n is an integer which denotes the number of inputs you want to give. This file will then generate n random points and show the visualization.
+(ii) 'python GrahamScanVisualizationGraphInput.py n', where n is an integer which denotes the number of inputs you want to give. This file will then open up a plot and allow you to choose points on the plot and then generate the visualization.
 
 3. Visualizations folder -> This contains two sub-folders :
 			    (i)  ReportImages -> This contains the visualizations included in the report.
